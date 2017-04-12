@@ -2,7 +2,7 @@ Docker + Chef Solo + Postgresql + Jira = Love!
 
 License and Authors
 -------------------
-Author: Tom Eklöf
+Author: Amol Mandekar
 I am in no way affiliated with company Atlassian® or the Jira® product.
 
 
